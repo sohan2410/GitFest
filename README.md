@@ -1,8 +1,8 @@
 ### 🙋‍♀️ Introduction:
-A one-month course beginning in October that will introduce students to the world of open source.  The only prerequisite is a passionate desire to study. ❤️
+A one-month program beginning in October that will introduce students to the world of open source.  The only prerequisite is a passionate desire to study. ❤️
 
 
-### 🤔 How Opencode works?
+### 🤔 How GitFest works?
 - Claim Issue: Whether you are able to solve it is irrelevant. Keep an eye out for problems you don't know how to address rather than ones you do! This will serve as your gateway to learning something new.
 
 - Solve Issue: After identifying the problem, it is now time to consider next steps. In this case, Google and mentors will come to your aid. Make the most of both opportunities.
