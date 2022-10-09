@@ -1,0 +1,1 @@
+Hii! My name is Lata. I am From IMT-2021 batch at ABV - IIITM. Currently I am exploring Web development as well as practicing DSA. My intrest also lies in Competitive programming. I do practice on codechef.
