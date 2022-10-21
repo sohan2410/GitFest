@@ -2,7 +2,7 @@
 
 This documentation is to simplify and guide the way beginners make their first contribution. If you are looking to make your first contribution, please follow the steps below.
 
-<img align="right" width="300" src="https://user-images.githubusercontent.com/68538660/106238740-67a62b80-61cf-11eb-9892-6a0877a80fbf.png" alt="fork this repository" />
+<img align="right" width="300" src="https://user-images.githubusercontent.com/78134633/197248414-712abae3-a562-4aef-a802-6d48115de565.png" alt="fork this repository" />
 
 #### If you don't have git on your machine, [install it](https://help.github.com/articles/set-up-git/).
 
@@ -13,7 +13,7 @@ This will result in a copy of this repository in your account.
 
 ## Clone the repository
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="https://user-images.githubusercontent.com/78134633/197248532-b81b898d-1f14-4583-af12-66ea352b6c11.png" alt="clone this repository" />
 
 Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the code button and then click the _copy to clipboard_ icon.
 
@@ -25,7 +25,7 @@ git clone "url you just copied"
 
 where "url you just copied" (without the quotation marks) is the url to this repository (your fork of this project). See the previous steps to obtain the url.
 
-<img align="right" width="300" src="https://user-images.githubusercontent.com/68538660/106241311-d4232980-61d3-11eb-84e6-293f97c09e1c.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="https://user-images.githubusercontent.com/78134633/197248603-671d278f-b007-44b0-8c80-52a9b04f4616.png" alt="copy URL to clipboard" />
 
 For example:
 
@@ -40,7 +40,7 @@ where `this-is-you` is your GitHub username. Here you're copying the contents of
 Change to the repository directory on your computer (if you are not already there):
 
 ```
-cd DSA
+cd GitFest
 ```
 
 Now create a branch using the `git checkout` command:
@@ -91,11 +91,11 @@ replacing `<add-your-branch-name>` with the name of the branch you created earli
 
 If you go to your repository on GitHub, you'll see a `Compare & pull request` button. Click on that button.
 
-<img style="float: right;" src="https://user-images.githubusercontent.com/68538660/106243186-ebafe180-61d6-11eb-8fbc-87ef0b8839b6.png" alt="create a pull request" />
+<img style="float: right;" src="https://user-images.githubusercontent.com/78134633/197248689-cf80da0d-376a-4ec4-a3e0-7c026a31b276.png" alt="create a pull request" />
 
 Now submit the pull request.
 
-<img style="float: right;" src="https://user-images.githubusercontent.com/68538660/106242886-688e8b80-61d6-11eb-87bb-73d22e57cdbe.png" alt="submit pull request" />
+<img style="float: right;" src="https://user-images.githubusercontent.com/78134633/197248751-c6094f0e-7585-4999-a4d1-27d54b7ccd3a.png" alt="submit pull request" />
 
 Soon after reviewing all your changes will be merged into the master branch of this project. You will get a notification email once the changes have been merged.
 
