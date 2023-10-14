@@ -21,7 +21,7 @@ The tasks will be listed in this repository's issue area.
 - [ ] Kindly visit all the templates present inside the `.github` directory as they are very very important.
 
 # Communication 🗣️
-  If you have any doubts, problem or suggestions, you can ping me anytime in the `discussion` channel of our<a href = "https://discord.gg/pR8cGUuX"> Discord </a> server.
+  If you have any doubts, problems or suggestions, you can ping me anytime in the `discussion` channel of our<a href = "https://discord.gg/pR8cGUuX"> Discord </a> server.
 
 # Guidelines ⚠️
 1. Do not make PR which is not related to any issues.
