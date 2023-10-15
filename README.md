@@ -21,11 +21,11 @@ The tasks will be listed in this repository's issue area.
 - [ ] Kindly visit all the templates present inside the `.github` directory as they are very very important.
 
 # Communication 🗣️
-  If you have any doubt, problem or suggestions, you can ping me anytime in the `discussion` channel of our<a href = "https://discord.gg/pR8cGUuX"> Discord </a> server.
-  
+  If you have any doubts, problems or suggestions, you can ping me anytime in the `discussion` channel of our<a href = "https://discord.gg/pR8cGUuX"> Discord </a> server.
+
 # Guidelines ⚠️
 1. Do not make PR which is not related to any issues.
 2. Do not make any irrelevant commits, if you make some by mistakes then please squash them.
 3. Be polite and gentle to other community members.
-4. If somehow I didn't respond to your PR under 40 hours then first try to ping me on `discussion` channel.
+4. If somehow I didn't respond to your PR under 40 hours then first try to ping me on the `discussion` channel.
 5. Participants who didn't register for the event are not allowed to participate in any repo (project) under Git-Init-Foss event.
