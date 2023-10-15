@@ -5,7 +5,7 @@ A one-month program beginning in October that will introduce students to the wo
 ### 🤔 How GitFest works?
 - Claim Issue: Whether you are able to solve it is irrelevant. Keep an eye out for problems you don't know how to address rather than ones you do! This will serve as your gateway to learning something new.
 
-- Solve Issue: After identifying the problem, it is now time to consider next steps. In this case, Google and mentors will come to your aid. Make the most of both opportunities.
+- Solve Issue: After identifying the problem, it is now the time to consider next steps. In this case, Google and mentors will come to your aid. Make the most of both opportunities.
 
 - Open a Pull Request: It's time to open your PR after reading everything that has ever been written online and everything that will be written in the future. This will be a wonderful opportunity to learn yet more 100 ways that git can make you cry!
 
