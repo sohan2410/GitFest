@@ -17,7 +17,7 @@ The tasks will be listed in this repository's issue area.
 
 # Important points ✔️
 - [ ] For contributions, kindly visit the `CONTRIBUTING.md` file.
-- [ ] I hope untill now you have already take a look at all the issue labels present in this project, if not please visit them.
+- [ ] I hope until now you have already take a look at all the issue labels present in this project, if not please visit them.
 - [ ] Kindly visit all the templates present inside the `.github` directory as they are very very important.
 
 # Communication 🗣️
